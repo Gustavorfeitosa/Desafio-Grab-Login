@@ -1,0 +1,82 @@
+body{
+    width: 1440px;
+    height: 800px;
+  }
+  
+  .login{
+    position: absolute;
+    width: 600px;
+    height: 800px;
+    background-color: #4E5BEE;
+  }
+  
+  form{
+    margin-top: 393px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 357px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  input{
+    margin-bottom: 18px;
+    width: 300px;
+    height: 50px;
+    border: 2px solid #FFFFFF;
+    border-radius: 25px;
+    background-color:#4E5BEE;
+
+  }
+  
+  button{
+    width: 300px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #FFFFFF;
+    font-size: 18px;
+  }
+
+button:hover{
+    cursor: pointer;
+    background-color:rgb(219, 215, 215);
+    color:black;
+}
+
+  p{
+    margin-top: 130px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'roboto';
+    font-style: normal;
+    text-align: center;
+  }
+  
+  .secao-imagem{
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 21px;
+  }
+
+  .imagem-login{
+    position:absolute;
+    margin-top: 229px;
+    margin-left: 212px;
+    margin-bottom: 501px;
+  }
+
+  .icone-login{
+    width: 20px;
+    position: absolute;
+    margin-left: 170px;
+    margin-top: 432px;
+  }
+  .icone-login-2{
+    width: 20px;
+    position: absolute;
+    margin-left: 170px;
+    margin-top: 503px;
+  }
